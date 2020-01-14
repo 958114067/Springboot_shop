@@ -1,0 +1,22 @@
+{
+  "gender": "男",
+  "age": "35-44岁",
+  "headIcon": "",
+  "lastNetwork": "2019-01-23",
+  "name": "陈正铭,韶大 陈老师,陈老师",
+  "phone": "13826319489",
+  "country": "中国",
+  "mostAddress": "中国",
+  "homeAddress": "贵州省贵阳市云岩区中山南路",
+  "homeGeo": "{\"lat\":\"26.57687\",\"lon\":\"106.69972\",\"province\":\"cn21\",\"city\":\"cn21_09\",\"area\":\"cn21_09_02\",\"street\":\"\",\"cnt\":\"1\"}",
+  "workAddress": "广东省韶关市武江区新津路18",
+  "workGeo": "{\"lat\":\"24.80346\",\"lon\":\"113.58214\",\"province\":\"cn2\",\"city\":\"cn2_08\",\"area\":\"cn2_08_03\",\"street\":\"\",\"cnt\":\"1\"}",
+  "education": "专科",
+  "income": "3-5k",
+  "childs": "7-12岁（小学生）",
+  "job": "个体户/自由职业",
+  "car": "有",
+  "phoneFactory": "LEMOBILE",
+  "phoneModel": "LE X820",
+  "label": ""
+}

@@ -1,0 +1,39 @@
+{
+  "req_id": "01cb59f761b0dec6",
+  "code": 2000,
+  "data": {
+    "list": [
+      {
+        "imei": "99000913326170",
+        "imsi": "",
+        "phone": "13059317424",
+        "mac": "",
+        "time": null,
+        "lang": null,
+        "operation": null,
+        "phoneType": null
+      },
+      {
+        "imei": "866769028769233",
+        "imsi": "460019315066095",
+        "phone": "13059317424",
+        "mac": "",
+        "time": null,
+        "lang": null,
+        "operation": null,
+        "phoneType": null
+      }
+    ],
+    "meta": {
+      "imei": "99000913326170",
+      "imsi": "",
+      "phone": "13059317424",
+      "mac": "",
+      "time": null,
+      "lang": null,
+      "operation": null,
+      "phoneType": null
+    }
+  },
+  "message": "success"
+}

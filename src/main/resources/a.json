@@ -1,0 +1,22 @@
+{
+  "gender": "男",
+  "age": "25-34岁",
+  "headIcon": "",
+  "lastNetwork": "2019-12-20",
+  "name": "王志亮,王工，",
+  "phone": "18588816188",
+  "country": "中国",
+  "mostAddress": "中国,广东,梅州",
+  "homeAddress": "广东省广州市越秀区禺西二路15号-2",
+  "homeGeo": "{\"lat\":\"23.133983\",\"lon\":\"113.280348\",\"province\":\"cn2\",\"city\":\"cn2_04\",\"area\":\"cn2_04_04\",\"street\":\"\",\"cnt\":\"12\"}",
+  "workAddress": "广东省梅州市兴宁市曙光路",
+  "workGeo": "{\"lat\":\"24.1394\",\"lon\":\"115.748292\",\"province\":\"cn2\",\"city\":\"cn2_10\",\"area\":\"cn2_10_81\",\"street\":\"\",\"cnt\":\"4\"}",
+  "education": "本科",
+  "income": "20k以上",
+  "childs": "4-6岁（学龄前）",
+  "job": "服务业人员",
+  "car": "无",
+  "phoneFactory": "HUAWEI",
+  "phoneModel": "FRD-AL10",
+  "label": ""
+}
